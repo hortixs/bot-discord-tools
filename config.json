@@ -1,0 +1,44 @@
+{
+
+  "guildID": "",
+  "clientId": "",
+
+  "parentTicket": "",
+  "roleSupport": "",
+  "ticketChannel": "",
+  "logsTicket": "",
+
+  "roleVerif": "",
+  "RoleMemberCountID": "",
+  "roleMute" : "",
+
+  "verifyChannel" : "",
+  "reactChannel" : "",
+  "logsWelcome" : "",
+  "logsMod" : "",
+  "logsLeaveChannel" : "",
+
+  "r1" : "", 
+  "r2" : "", 
+  "r3" : "",
+  "r4" : "", 
+  "r5": "",
+
+  "ChannelRoleCountID" : "",
+  "ChannelMemberCountID" : "",
+  "logsVerification" : "",
+  "logsSaveMessage": "",
+
+  "CaptchaColor": "#32cf7e",
+  "CaptchaColorTrace" : "#32cf7e",
+
+  "tentativeFailToBan": 2,
+  
+  "daysVerified": 10,
+  "ChannelNameMemberCounter" : "🌏 Membres:",
+  "ChannelNameRoleCounter" : "TEST:",
+  "discordLink": "",
+  "footerText": "Project"
+  
+}
+
